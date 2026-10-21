@@ -1,8 +1,8 @@
 {
- "key": "2cba25b2",
+ "key": "f265af4e",
  "stars": 1,
- "contributions": 9,
- "repos": 2,
+ "contributions": 12,
+ "repos": 3,
  "followers": 0,
  "languages": [],
  "days": [
@@ -82,7 +82,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 1,
     "day": 18,
     "today": false
    },
@@ -97,7 +97,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 6,
     "day": 21,
     "today": true
    },
@@ -115,9 +115,18 @@
   {
    "name": "LibCore",
    "url": "https://github.com/Bjork133/LibCore",
-   "text": "Ядро программы для управления физической бибдиотекой. Первая часть проекта LibSorter",
+   "text": "Ядро программы для управления физической библиотекой. Первая часть проекта LibSorter",
    "fork": false,
    "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Qwen3",
+   "url": "https://github.com/Bjork133/Qwen3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
    "language": null,
    "topics": []
   },
