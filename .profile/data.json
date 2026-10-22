@@ -1,10 +1,23 @@
 {
- "key": "916559ed",
+ "key": "5cc65455",
  "stars": 1,
- "contributions": 12,
+ "contributions": 17,
  "repos": 3,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "C++",
+   250696
+  ],
+  [
+   "CMake",
+   4287
+  ],
+  [
+   "C",
+   2889
+  ]
+ ],
  "days": [
   [
    {
@@ -102,7 +115,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 22,
     "today": true
    },
@@ -111,8 +124,8 @@
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
  "pins": [],
  "all": [
@@ -122,7 +135,7 @@
    "text": "Ядро программы для управления физической библиотекой. Первая часть проекта LibSorter",
    "fork": false,
    "stars": 1,
-   "language": null,
+   "language": "C++",
    "topics": []
   },
   {
