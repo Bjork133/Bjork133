@@ -1,21 +1,17 @@
 {
- "key": "306a6598",
+ "key": "af5d635",
  "stars": 1,
- "contributions": 28,
- "repos": 3,
+ "contributions": 23,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
    "C++",
-   222298
+   217325
   ],
   [
    "CMake",
-   6312
-  ],
-  [
-   "QML",
-   5327
+   4799
   ],
   [
    "C",
@@ -124,7 +120,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 1,
     "day": 23,
     "today": false
    },
@@ -148,15 +144,6 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "libsorter",
-   "url": "https://github.com/Bjork133/libsorter",
-   "text": "Вторая часть проекта LibSorter. Графический интерфейс всей программы.",
-   "fork": false,
-   "stars": 0,
-   "language": "QML",
    "topics": []
   },
   {
