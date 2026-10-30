@@ -1,8 +1,8 @@
 {
- "key": "9bc13302",
+ "key": "21e451e2",
  "stars": 1,
- "contributions": 27,
- "repos": 4,
+ "contributions": 31,
+ "repos": 5,
  "followers": 0,
  "languages": [
   [
@@ -16,6 +16,10 @@
   [
    "QML",
    8342
+  ],
+  [
+   "Rust",
+   7270
   ],
   [
    "C",
@@ -119,12 +123,12 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 29,
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 30,
     "today": true
    },
@@ -149,10 +153,19 @@
   {
    "name": "encui",
    "url": "https://github.com/Bjork133/encui",
-   "text": "Мой первый опыт в интересующей меня криптографии",
+   "text": "",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "conway-aes",
+   "url": "https://github.com/Bjork133/conway-aes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
    "topics": []
   },
   {
