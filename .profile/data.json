@@ -1,5 +1,5 @@
 {
- "key": "cbd08484",
+ "key": "6ad02f23",
  "stars": 1,
  "contributions": 36,
  "repos": 6,
@@ -114,9 +114,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
